@@ -1,1 +1,1 @@
-# html-css-project.github.io
+# html-css-js-project-boilerplate
